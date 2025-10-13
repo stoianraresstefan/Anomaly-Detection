@@ -1,0 +1,4 @@
+scikit-learn ~= 1.7
+pyod ~= 2.0
+jupyter ~= 1.1
+# keras ~= 
