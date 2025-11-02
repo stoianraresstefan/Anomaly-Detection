@@ -3,4 +3,6 @@ pyod ~= 2.0
 jupyter ~= 1.1
 numpy ~= 2.3
 matplotlib ~= 3.10
+combo ~= 0.1
+scipy ~= 1.16
 # keras ~= 
